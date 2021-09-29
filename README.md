@@ -8,7 +8,7 @@ A simulation of elastic collisions between 2d orbs.
 ASCII representation of webcam output with color (webcam interfaced via [escapi](https://github.com/jarikomppa/escapi)).
 ![Color ASCII Footage](/rgb_example.gif)
 
-A black and white version
+A black and white version.
 ![Black and White ASCII Footage](/bnw_example.gif)
 
 [Dithering](https://en.wikipedia.org/wiki/Dither) is used to increase visual fidelity in the camera demos. It is especially apparent in the 2 character (1-bit) case.
