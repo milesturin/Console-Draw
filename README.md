@@ -15,6 +15,7 @@ I added [dithering](https://en.wikipedia.org/wiki/Dither) to increase visual fid
 ![Dithered 1-bit Footage](/dithering_example.gif)
 
 You can find the source code [here](https://github.com/milesturin/Console-Draw/tree/main/ConsoleDraw/ConsoleDraw).
+
 Library:
 * Canvas.hpp
 * Canvas.cpp
